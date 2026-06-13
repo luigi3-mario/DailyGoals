@@ -1,0 +1,8 @@
+Create dateInterval class
+DateInterval can get totals and averages for the DateInterval
+has startDate and endDate
+can get list of all dates in DateInterval
+
+goalFilter class
+list of included goals
+
